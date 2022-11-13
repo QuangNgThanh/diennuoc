@@ -1,0 +1,32 @@
+*{ 
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+   }
+
+#container {
+    color: black;
+    padding: 40px;
+    text-align: center;
+}
+
+h1{
+    color: rgb(231, 29, 29);
+    font-size: 40px;
+    font-weight: 800;
+}
+.image {
+    padding: 30px;
+
+}
+
+#image{
+    text-decoration: none;
+    list-style: none;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
